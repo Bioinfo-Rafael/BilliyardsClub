@@ -1,6 +1,6 @@
-# 株式会社KLダイナミクス サイト + FastAPI
+# KLビリヤード部 サイト + FastAPI
 
-静的なフロントエンド(HTML / CSS / JavaScript)と、バックエンドの FastAPI サーバーで構成されたサンプルサイトです。
+ビリヤード部の紹介サイトです。静的なフロントエンド(HTML / CSS / JavaScript)と、バックエンドの FastAPI サーバーで構成されています。
 自分の PC 上で動かし、Cloudflare Tunnel 経由で外部公開することを想定しています。
 
 ## ディレクトリ構成
