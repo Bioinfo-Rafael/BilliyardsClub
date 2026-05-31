@@ -12,7 +12,7 @@ my-site/
 │   ├── style.css
 │   └── script.js
 ├── backend/
-│   ├── main.py
+│   ├── main.py #サーバー上での内容は現在main-v2.pyにしています
 │   └── requirements.txt
 └── README.md
 ```
