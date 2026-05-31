@@ -1,5 +1,5 @@
 // FastAPI サーバーのベースURL(ローカル想定)
-const API_BASE = "http://localhost:8000";
+const API_BASE = "";
 
 const form = document.getElementById("contact-form");
 const result = document.getElementById("result");
