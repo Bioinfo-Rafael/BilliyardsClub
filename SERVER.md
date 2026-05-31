@@ -65,7 +65,7 @@ Nginx Proxy Manager (総合受付 / webpanel)
    Dockerの内部ネットワーク機能により、フロントエンドからバックエンドへの転送は `localhost` ではなく、コンテナ名（`http://billiards-backend:8000`）を指定するだけで安全かつ確実に通信が行われます。
 
 ---
- ##ディレクトリ構成
+ ## ディレクトリ構成
 
  ```
    .
